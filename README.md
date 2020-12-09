@@ -23,6 +23,7 @@ The stock selection page is where users make their picks for the stocks that the
 ## Wireframe
 
 ### Homepage
+![Homepage](./images/Project4Homepage.png)
 
 ### View User Page
 
