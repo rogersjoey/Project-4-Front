@@ -26,10 +26,13 @@ The stock selection page is where users make their picks for the stocks that the
 ![Homepage](./images/Project4Homepage.png)
 
 ### View User Page
+![View User Page](./images/Project4ViewUser.png)
 
 ### User Page
+![User Page](./images/Project4User.png)
 
 ### Stock Selection Page
+![Stock Selection](./images/Project4Select.png)
 
 ## User Stories
 1) "All my friends kept on trying to say that I know nothing about the economy. With Stonks vs Stinks I was able to show them that I have a far superior economic mind!"
